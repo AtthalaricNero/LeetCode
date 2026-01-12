@@ -2,7 +2,7 @@
 
 This repository contains my solutions to selected LeetCode problems.
 
-I use this repo to:
+I use this repo as a learning journal to:
 - strengthen logical and structural problem solving
 - practice recognizing algorithmic patterns
 - keep my coding skill sharp through regular practice
